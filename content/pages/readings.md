@@ -1,50 +1,36 @@
 ---
 content_type: page
+description: The readings section contains the readings for the course.
+draft: false
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: 82de02b7-b5d0-9413-72d8-d21f8d6f5c87
 ---
-
 While there is no required textbook, the course does make frequent use of the following books:
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/lectures-macroeconomics) BF = Blanchard, Olivier J., and Stanley Fisher. [_Lectures on Macroeconomics_](https://mitpress.mit.edu/books/lectures-macroeconomics). Cambridge, MA: MIT Press, 1989, ISBN: 0262022834.
+![Buy at MIT Press](/images/mp_logo.gif) BF = Blanchard, Olivier J., and Stanley Fisher. [_Lectures on Macroeconomics_](https://mitpress.mit.edu/books/lectures-macroeconomics). Cambridge, MA: MIT Press, 1989, ISBN: 0262022834.
 
 Deaton = Deaton, Angus. _Understanding Consumption_. New York, NY: Oxford University Press, 1992, ISBN: 0198288247.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/contributors/thomas-j-sargent) LS = Ljungqvist, Lars, and Thomas J. Sargent. [_Recursive Macroeconomic Theory_](https://mitpress.mit.edu/contributors/thomas-j-sargent). 2nd ed. Cambridge, MA: MIT Press, 2004, ISBN: 026212274X.
+![Buy at MIT Press](/images/mp_logo.gif) LS = Ljungqvist, Lars, and Thomas J. Sargent. [_Recursive Macroeconomic Theory_](https://mitpress.mit.edu/contributors/thomas-j-sargent). 2nd ed. Cambridge, MA: MIT Press, 2004, ISBN: 026212274X.
 
-Readings by Session
--------------------
+## Readings by Session
 
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 LEC #
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 TOPICS
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 READINGS
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 1
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Intertemporal Preferences and Welfare Costs of Uncertainty
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
-
-Backus, David, Bryan Routledge, and Stanley Zin. "Exotic Preferences for Macroeconomists." NBER Working Paper No. 10597, June 2004_._
+Backus, David, Bryan Routledge, and Stanley Zin. "Exotic Preferences for Macroeconomists." NBER Working Paper No. 10597, June 2004.
 
 ### Essential
 
@@ -60,19 +46,11 @@ Lucas, Robert E., Jr. "Macroeconomic Priorities." A. E. A. Presidential Address 
 
 Weil, Philippe. "Non-expected Utility in Macroeconomics." _Quarterly Journal of Economics_ 105, no. 1 (1990): 29-42.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2-4
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Complete Markets and Pareto Optima
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Stokey, Nancy L., Robert E. Lucas, Jr. and Edward C. Prescott. _Recursive Methods in Economic Dynamics._ Cambridge, MA: Harvard University Press, 1989, chapter 15. ISBN: 0674750969.
 
@@ -82,19 +60,11 @@ LS. Chapter 8.
 
 Townsend, Robert M. "Consumption Insurance: An Evaluation of Risk-Bearing Systems in Low-Income Economies." _Journal of Economic Perspectives_ 9, no. 3 (1995): 83-102.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5-6
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Asset Pricing: Arbitrage and CCAPM
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 ### Essential
 
@@ -116,19 +86,11 @@ Barro, Robert J. "On the Welfare Costs of Consumption Uncertainty." NBER Working
 
 Mehra, Rajnish, and Edward C. Prescott. "The Equity Premium: A Puzzle." _Journal of Monetary Economics_ 15, no. 2 (1985): 145-161.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7-9
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Precautionary Savings / Income Fluctuations Problem
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 LS. Chapters 16 and 17.
 
@@ -162,19 +124,11 @@ Weil, Philippe. "Precautionary Savings and the Permanent Income Hypothesis." _Re
 
 Zeldes, Stephen P. "Optimal Consumption with Stochastic Income: Deviations from Certainty Equivalence." _Quarterly Journal of Economics_ 104, no. 2 (1989): 275-298.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Empirical Evidence, Tests and Quantitative Models
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 BF. Section 6.2.
 
@@ -204,25 +158,15 @@ Storesletten, Kjetil, Chris Telmer, and Amir Yaron. "Consumption and Risk Sharin
 
 Hall, Robert. "Stochastic Implications of the Life Cycle Permanent Income Hypothesis: Theory and Evidence." _Journal of Political Economy_ 86, no. 6 (1978): 971-987.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Empirical Evidence, Tests and Quantitative Models (cont.)
 
 Imperfect Insurance with Frictions
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Kocherlakota, Narayana R. "Implications of Efficient Risk Sharing without Commitment." _Review of Economic Studies_ 63, no. 4 (1996): 595-609.
 
@@ -242,31 +186,17 @@ Alvarez, Fernando, and Urban J. Jermann. "Quantitative Asset Pricing Implication
 
 Atkeson, Andrew, and Robert E. Lucas, Jr. "On Efficient Distribution with Private Information." _Review of Economic Studies_ 59, no. 3 (1992): 427-453.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Imperfect Insurance with Frictions (cont.)
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Investment with Convex Adjustment Costs / Q-Theory
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Abel, Andrew. "Consumption and Investment." In _Handbook of Monetary Economics._ Vol. 2. Edited by B. M. Freeman and F. H. Hahn. Amsterdam, Netherlands: Elsevier Science, 1990. ISBN: 0444880267.
 
@@ -276,19 +206,11 @@ BF. Section 6.3.
 
 Hayashi, Fumio. "Tobin's Marginal q and Average q: A Neoclassical Interpretation." _Econometrica_ 50, no. 1 (1982): 213-224.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Irreversibility, Fixed-Costs and (S, s) Rules
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Dixit, A. K., and R. S. Pindyck. _Investment Under Uncertainty_. Princeton, NJ: Princeton University Press, 1994, chapter 2. ISBN: 0691034109.
 
@@ -314,9 +236,4 @@ Thomas, Julia K. "Is Lumpy Investment Relevant for the Business Cycle?" _Journal
 
 Veracierto, Marcelo L. "Plant-Level Irreversible Investment and Equilibrium Business Cycles." _American Economic Review_ 92, no. 1 (2002): 181-197.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}

@@ -8,6 +8,7 @@ file: /courses/14-453-macroeconomic-theory-iii-fall-2006/737c3b654d47469da83879d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ uid: 737c3b65-4d47-469d-a838-79de7aab082f
 ---
 This resource contains problems based on business cycles costs, intertemporal elasticity of substitution, risk aversion,
 and the cost of fluctuations.
-

@@ -7,6 +7,7 @@ file: /courses/14-453-macroeconomic-theory-iii-fall-2006/dad20b26467af3522a14053
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lec2.pdf
 uid: dad20b26-467a-f352-2a14-053c433f1688
 ---
 This resource contains lecture notes on uncertainty: certainty equivalence and PIH, estimation and tests, precautionary savings, lessons from simulations, invariant distributions, equilibrium, inequality, and other features and extensions.
-

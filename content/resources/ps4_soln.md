@@ -4,6 +4,7 @@ description: 'This resource contains the solutions for problems set #4 which inc
   incomplete markets and asset prices, investment with fixed costs, and two-sided
   lack of commitment: stationary allocations.'
 file: /courses/14-453-macroeconomic-theory-iii-fall-2006/235c1516e51a64dcfed84c1dcf65ef76_ps4_soln.pdf
+file_size: 243705
 file_type: application/pdf
 learning_resource_types:
 - Assignments

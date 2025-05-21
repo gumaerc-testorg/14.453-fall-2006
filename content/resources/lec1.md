@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains lecture notes on asset prices: overview, Euler
   equation, CCAPM, discount factors, Hansen-Jagannathan bounds, resolutions, and conclusions.'
-file: /ol-ocw-studio-app/courses/14-453-macroeconomic-theory-iii-fall-2006/7774762289bbc602e926471caa06b585_lec1.pdf
+file: /courses/14-453-macroeconomic-theory-iii-fall-2006/7774762289bbc602e926471caa06b585_lec1.pdf
 file_size: 209751
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains problems based on perfect risk sharing, risk
   sharing productivity: consumption and labor, and overlapping generations.'
-file: /ol-ocw-studio-app/courses/14-453-macroeconomic-theory-iii-fall-2006/567901dfd8102573cf9ac936abe979cb_ps2.pdf
+file: /courses/14-453-macroeconomic-theory-iii-fall-2006/567901dfd8102573cf9ac936abe979cb_ps2.pdf
 file_size: 136836
 file_type: application/pdf
 learning_resource_types:

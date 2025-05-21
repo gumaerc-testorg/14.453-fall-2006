@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource contains the solutions for problems set #1 which includes
   business cycles costs, intertemporal elasticity of substitution, risk aversion,
   and the cost of fluctuations.'
-file: /ol-ocw-studio-app/courses/14-453-macroeconomic-theory-iii-fall-2006/5771778227c0c56ba96f012800b8dbec_ps1_soln.pdf
+file: /courses/14-453-macroeconomic-theory-iii-fall-2006/5771778227c0c56ba96f012800b8dbec_ps1_soln.pdf
 file_size: 256206
 file_type: application/pdf
 learning_resource_types:

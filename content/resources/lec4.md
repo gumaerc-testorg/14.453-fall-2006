@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains lecture notes on investment, user cost, irreversibility
   or costly reversibility, Bentolila and Bertola, fixed costs, and generalized hazard.
-file: /courses/14-453-macroeconomic-theory-iii-fall-2006/d8935a0dbf5c094f9c58306b429c8b14_lec4.pdf
+file: /ol-ocw-studio-app/courses/14-453-macroeconomic-theory-iii-fall-2006/d8935a0dbf5c094f9c58306b429c8b14_lec4.pdf
 file_size: 184662
 file_type: application/pdf
 learning_resource_types:
